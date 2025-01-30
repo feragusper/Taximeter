@@ -1,0 +1,11 @@
+<resources>
+    <string name="features_taximeter_title">Taximeter</string>
+    <string name="features_taximeter_supplements">SUPPLEMENTS</string>
+    <string name="features_taximeter_price_breakdown">PRICE BREAKDOWN</string>
+    <string name="features_taximeter_start_ride">Start Ride</string>
+    <string name="features_taximeter_finish_ride">Finish Ride</string>
+    <string name="features_taximeter_total_fare">TOTAL FARE</string>
+    <string name="features_taximeter_total">TOTAL</string>
+    <string name="features_taximeter_distance">DISTANCE</string>
+    <string name="features_taximeter_time">TIME</string>
+</resources>

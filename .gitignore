@@ -1,0 +1,87 @@
+# =======================================
+# Build artifacts and generated files
+# =======================================
+
+# Built application files
+*.apk
+*.ap_       # Android application package outputs
+
+# Files for the Android DEX (Dalvik Executable) VM
+*.dex       # Compiled Android bytecode
+
+# Compiled Java/Kotlin class files
+*.class
+
+# Generated build files
+bin/
+gen/
+out/
+build/
+generated/
+
+# =======================================
+# Environment and configuration files
+# =======================================
+
+# Local configuration file (e.g., SDK path, signing configs, etc.)
+local.properties
+
+# Gradle cache and generated files
+.gradle
+
+# =======================================
+# IDE and editor specific files
+# =======================================
+
+# Android Studio/IntelliJ IDEA project files
+*.iml
+.idea/*
+# Preserve useful project-specific settings
+!.idea/copyright
+!.idea/codeStyles/Project.xml
+!.idea/codeStyles/codeStyleConfig.xml
+
+# Eclipse project files (not relevant for Android projects)
+.classpath
+.project
+
+# Visual Studio Code settings
+.vscode/
+
+# JetBrains Rider settings
+.idea/Rider*/
+
+# =======================================
+# Operating system-specific files
+# =======================================
+
+# macOS Finder metadata files
+.DS_Store
+
+# Windows thumbnail database
+Thumbs.db
+
+# Linux temporary files
+*.swp
+*.swo
+
+# =======================================
+# Debugging and testing files
+# =======================================
+
+# Android Studio captures folder (screenshots, videos, etc.)
+captures/
+
+# =======================================
+# Kotlin-specific files
+# =======================================
+
+# Kotlin build system directory
+.kotlin
+
+# =======================================
+# Miscellaneous
+# =======================================
+
+# Temporary sandbox folder
+_sandbox/
